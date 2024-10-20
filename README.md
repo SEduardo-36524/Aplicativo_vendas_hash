@@ -1,0 +1,1 @@
+# Aplicativo_vendas_hash
